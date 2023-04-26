@@ -1,4 +1,4 @@
-# tradingview_oanda_webhook_trading
+# Tradingview Oanda Webhook Trading
 
 you can host this flask app on www.pythonanywhere.com
 if you like this repo, please star it and follow me on github. Thank you!
